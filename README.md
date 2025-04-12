@@ -2,13 +2,13 @@
 
 A sleek, responsive weather web app built with **React.js** and **Tailwind CSS**, allowing users to search for any city and view live weather data using the **OpenWeatherMap API**.
 
-![App Screenshot](./screenshot.png) <!-- Replace with actual image path -->
+![App Screenshot](./screenshot.png) <!--"C:\Users\KIIT\Downloads\2470098_Weather_App.png"-->
 
 ---
 
 ## 🚀 Live Demo
 
-👉 [View Live App](https://your-deployment-link.com)  
+👉 [View Live App]([https://your-deployment-link.com](https://zynetic-weather-app-eight.vercel.app/))  
 👉 [GitHub Repository](https://github.com/your-username/weather-dashboard)
 
 ---
