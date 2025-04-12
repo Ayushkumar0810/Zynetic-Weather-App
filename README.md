@@ -8,7 +8,7 @@ A sleek, responsive weather web app built with **React.js** and **Tailwind CSS**
 
 ## 🚀 Live Demo
 
-👉 [View Live App]([https://your-deployment-link.com](https://zynetic-weather-app-eight.vercel.app/))  
+👉 [View Live App]([https://zynetic-weather-app-eight.vercel.app])  
 👉 [GitHub Repository](https://github.com/your-username/weather-dashboard)
 
 ---
